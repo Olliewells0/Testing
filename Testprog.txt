@@ -1,5 +1,11 @@
 # TEST PROGRAM
 
+<<<<<<< HEAD
 # Development code
 
 # More development code
+=======
+# Main
+
+# More main code
+>>>>>>> master
