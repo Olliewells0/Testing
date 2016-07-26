@@ -11,3 +11,5 @@
 >>>>>>> master
 
 # Merge complete
+
+# Commit 1
